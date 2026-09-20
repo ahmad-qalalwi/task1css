@@ -38,12 +38,43 @@ gap: 60px;
     margin-bottom: 48px;
 }
 .sellers .row{
+    align-items: flex-start;
     column-gap: 30px;
     row-gap: 40px;
+    
 }
 .seller{
     width: calc( (100% - 90px ) / 4 );
+  
+    
 }
 .sellers img{
     width: 100%;
 }
+.seller .name{
+    text-transform: uppercase;
+    color: #3A3845;
+    font-size: medium;
+}
+.seller .price{
+   font-size: larger; 
+   color: #3A3845;
+   margin-bottom: 24px;
+}
+.color{
+    color: #3A3845;
+}
+.seller .button{
+    padding: 15px 0;
+    width: 100%;
+   margin-top: 58px;
+    border: solid 2px #3A3845;
+}
+.margin6{
+margin-top: 76px;
+ padding: 15px 0;
+    width: 100%;
+   
+    border: solid 2px #3A3845;
+}
+
