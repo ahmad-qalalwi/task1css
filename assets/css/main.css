@@ -9,3 +9,25 @@ gap: 60px;
 .header .row{
     justify-content:space-between;
 }
+.collections{
+    text-align: center;
+      text-transform: uppercase;
+}
+.collection{
+    width: calc( ( 100% - 90px ) / 4 );
+  
+}
+.collection img{
+    width: 100%;
+}
+.collections .row{
+   column-gap: 30px;
+}
+.collection h2{
+    margin: 23px 0;
+    color: #3A3845;
+}
+.collections .container
+{
+    margin: 80px auto;
+}
