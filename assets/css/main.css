@@ -1,0 +1,11 @@
+.list ul{
+display: flex;
+gap: 60px;
+}
+.icons ul{
+    display: flex;
+    gap: 24px;
+}
+.header .row{
+    justify-content:space-between;
+}
