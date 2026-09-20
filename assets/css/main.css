@@ -31,3 +31,19 @@ gap: 60px;
 {
     margin: 80px auto;
 }
+.seltext{
+    text-align: center;
+    color: #3A3845;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.sellers .row{
+    column-gap: 30px;
+    row-gap: 40px;
+}
+.seller{
+    width: calc( (100% - 90px ) / 4 );
+}
+.sellers img{
+    width: 100%;
+}
