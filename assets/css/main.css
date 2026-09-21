@@ -1,3 +1,6 @@
+.header{
+    padding: 21.84px 0;
+}
 .list ul{
 display: flex;
 gap: 60px;
